@@ -5,7 +5,7 @@ Created on Tue Sep 12 12:46:27 2017
 @author: JSULLIVAN
 """
 
-# data from Quandl
+# Script to collect financial data from Quandl
 
 import quandl
 import numpy as np
